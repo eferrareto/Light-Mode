@@ -1,0 +1,44 @@
+body{
+    margin: 50px;
+    background-color: #031122be;
+}
+h1{
+    text-align: center;
+    color: #6591c7;
+}
+#foto{
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.363);
+    border-radius: 10px;
+    margin: auto;
+    margin-right: auto;
+    margin-left: auto;
+    width: 300px;
+    background-color: white;
+}
+#foto:hover{
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.158);
+}
+main{
+    text-align: center;
+    
+}
+p{
+    text-align: center;
+    color: #88A9D1;
+}
+input{
+    background-color: #0C77FA;
+    color: white;
+    width: 150px;
+    height: 25px;
+    border: none;
+    border-radius: 5px;
+}
+input:hover{
+    color: white;
+    background-color: transparent;
+    box-shadow: 1px 1px 10px #5298ec;
+}
+footer{
+    text-align: center;
+}
