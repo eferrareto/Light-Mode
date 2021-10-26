@@ -27,6 +27,7 @@ p{
     color: #88A9D1;
 }
 input{
+    cursor: pointer;
     background-color: #0C77FA;
     color: white;
     width: 150px;
